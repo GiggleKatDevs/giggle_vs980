@@ -6,15 +6,15 @@ TARGET_SCREEN_WIDTH := 1080
 $(call inherit-product, device/lge/vs980/vs980.mk)
 
 # phone
-$(call inherit-product, vendor/bliss/config/common_full_phone.mk)
+$(call inherit-product, vendor/kitstalk/config/common_full_phone.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/bliss/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/kitstalk/config/nfc_enhanced.mk)
 
 # product
 PRODUCT_DEVICE := vs980
 PRODUCT_BRAND := LGE
-PRODUCT_NAME := bliss_vs980
+PRODUCT_NAME := kitstalk_vs980
 PRODUCT_MODEL := LG-VS980
 PRODUCT_MANUFACTURER := lge
 
