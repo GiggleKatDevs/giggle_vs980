@@ -1,20 +1,26 @@
 [
- {
-   "remote": "lsd",
-   "repository": "android_hardware_qcom_audio-caf",
-   "target_path": "hardware/qcom/audio-caf",
-   "branch":      "kitkat"
- },
- {
-   "remote": "lsd",
-   "repository": "device_lge_g2-common",
-   "target_path": "device/lge/g2-common",
-   "branch":      "kitkat"
- },
- {
-   "remote": "lsd",
-   "repository": "hardware_qcom_media-caf",
-   "target_path": "hardware/qcom/media-caf",
-   "branch":      "kitkat"
- }
+{
+"remote": "lsd",
+"repository": "device_lge_g2-common",
+"target_path": "device/lge/g2-common",
+"branch": "kitkat"
+},
+{
+"remote": "lsd",
+"repository": "hardware_qcom_display-g2",
+"target_path": "hardware/qcom/display-g2",
+"branch": "kitkat"
+},
+{
+"remote": "ls",
+"repository": "android_hardware_qcom_audio-caf",
+"target_path": "hardware/qcom/audio-caf",
+"branch": "kitkat",
+},
+{
+"remote": "ls",
+"repository": "android_hardware_qcom_media-caf",
+"target_path": "hardware/qcom/media-caf",
+"branch": "kitkat"
+}
 ]
