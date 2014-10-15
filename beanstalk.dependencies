@@ -12,12 +12,6 @@
    "branch":      "kitkat"
  },
  {
-  "remote": "lsd",
-  "repository": "vendor_lge_g2",
-  "target_path": "vendor/lge/g2",
-  "branch":      "kitkat"
- },
- {
    "remote": "lsd",
    "repository": "hardware_qcom_media-caf",
    "target_path": "hardware/qcom/media-caf",
