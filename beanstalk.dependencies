@@ -15,7 +15,7 @@
 "remote": "ls",
 "repository": "android_hardware_qcom_audio-caf",
 "target_path": "hardware/qcom/audio-caf",
-"branch": "kitkat",
+"branch": "kitkat"
 },
 {
 "remote": "ls",
