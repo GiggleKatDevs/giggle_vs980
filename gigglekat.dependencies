@@ -7,6 +7,12 @@
 },
 {
 "remote": "lsd",
+"repository": "android_device_qcom_common",
+"target_path": "device/qcom/common",
+"branch":      "kitkat"
+},
+{
+"remote": "lsd",
 "repository": "hardware_qcom_display-g2",
 "target_path": "hardware/qcom/display-g2",
 "revision": "kitkat"
