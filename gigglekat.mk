@@ -14,7 +14,7 @@ $(call inherit-product, vendor/gigglekat/config/nfc_enhanced.mk)
 # product
 PRODUCT_DEVICE := vs980
 PRODUCT_BRAND := LGE
-PRODUCT_NAME := gigglekar_vs980
+PRODUCT_NAME := gigglekat_vs980
 PRODUCT_MODEL := LG-VS980
 PRODUCT_MANUFACTURER := lge
 PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.vs980.$(shell date +%m%d%y).$(shell date +%H%M%S)
