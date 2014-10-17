@@ -6,7 +6,7 @@ TARGET_SCREEN_WIDTH := 1080
 $(call inherit-product, device/lge/vs980/vs980.mk)
 
 # phone
-$(call inherit-product, vendor/gigglekat/config/common_phone.mk)
+$(call inherit-product, vendor/gigglekat/config/common.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/gigglekat/config/nfc_enhanced.mk)
