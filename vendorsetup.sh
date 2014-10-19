@@ -1,1 +1,1 @@
-add_lunch_combo liquid_vs980-userdebug
+add_lunch_combo gigglekat_vs980-userdebug
