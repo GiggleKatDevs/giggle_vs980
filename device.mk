@@ -36,7 +36,7 @@ PRODUCT_COPY_FILES += \
 
 # OTA ID
 PRODUCT_PROPERTY_OVERRIDES += \
-    otaupdater.otaid=liquidvs980
+    otaupdater.otaid=gigglekatvs980
 
 # NFC packages
 PRODUCT_PACKAGES += \
